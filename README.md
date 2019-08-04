@@ -1,3 +1,3 @@
-# monkeying around with markov chains
+# aka the memoryless property
 
-aka the memoryless property
+monkeying around with markov chains, MDPs, and MCMC
